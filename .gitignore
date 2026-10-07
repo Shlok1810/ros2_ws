@@ -1,0 +1,14 @@
+# ROS 2 colcon workspace generated directories
+build/
+install/
+log/
+
+# VS Code C/C++ IntelliSense browse database (large, generated)
+.vscode/browse.vc.db*
+.vscode/*.vc.db*
+.vscode/ipch/
+
+# OS / editor cruft
+*.swp
+*~
+.DS_Store
